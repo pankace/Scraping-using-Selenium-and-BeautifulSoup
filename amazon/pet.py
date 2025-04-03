@@ -12,7 +12,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
-
+#update
 class AmazonScraper:
     def __init__(self):
         self.base_url = "https://www.amazon.com/s?k=gaming&crid=2Q95QAJCPV7RS&sprefix=%2Caps%2C611&ref=nb_sb_ss_recent_2_0_recent"
