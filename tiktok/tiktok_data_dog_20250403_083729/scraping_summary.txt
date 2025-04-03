@@ -1,0 +1,16 @@
+TikTok Scraper Summary Report
+==========================
+
+Hashtag: #dog
+Date: 2025-04-03 08:39:06
+Total videos scraped: 1
+Data saved to: C:\Users\ASUS\Desktop\HARBOURSPACE\Scraping-using-Selenium-and-BeautifulSoup\tiktok_data_dog_20250403_083729
+
+Sample of scraped videos:
+
+--- Video 1 ---
+Username: drsidra700
+Likes: 1477
+URL: https://www.tiktok.com/@drsidra700/video/7488514521074584854
+Images saved: Yes
+Video saved: Yes

@@ -1,0 +1,751 @@
+{
+  "attributes": {
+    "class": "css-j4516m-DivVideoFeedV2 ecyq5ls0",
+    "data-e2e": "challenge-item-list",
+    "mode": "compact"
+  },
+  "childElementCount": 146,
+  "children": [
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    },
+    {
+      "className": "css-x6y88p-DivItemContainerV2 e19c29qe7",
+      "id": "",
+      "tagName": "DIV"
+    }
+  ],
+  "className": "css-j4516m-DivVideoFeedV2 ecyq5ls0",
+  "hasImageElement": true,
+  "hasVideoElement": true,
+  "id": "",
+  "position": {
+    "height": 5714.890625,
+    "width": 1608,
+    "x": 264,
+    "y": -2365
+  },
+  "tagName": "DIV"
+}
